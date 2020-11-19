@@ -1,6 +1,8 @@
 # AngularOnHeroku
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
+npm install @angular/cli@latest @angular/compiler-cli --save-dev
+npm install express path --save
 
 ## Development server
 
