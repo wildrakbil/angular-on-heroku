@@ -8,8 +8,11 @@ import { Router } from '@angular/router';
 
 import swal from 'sweetalert2';
 
-const API_PERSONS_URL = 'http://localhost:8080/api/persons';
-const API_PERSON_URL = 'http://localhost:8080/api/person';
+//const API_PERSONS_URL = 'http://localhost:8080/api/persons';
+//const API_PERSON_URL = 'http://localhost:8080/api/person';
+
+const API_PERSONS_URL = 'https://angular-on-heroku1.herokuapp.com/persons';
+const API_PERSON_URL = 'https://angular-on-heroku1.herokuapp.com/person';
 
 var httpOptions = {
   headers: new HttpHeaders({

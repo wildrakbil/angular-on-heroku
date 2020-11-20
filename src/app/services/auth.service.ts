@@ -13,8 +13,8 @@ import { Person } from '../model/person';
   providedIn: 'root',
 })
 export class AuthService {
-  authUrl = 'http://localhost:8080/api/';
-  //authUrl = 'https://angular-on-heroku1.herokuapp.com/';
+  //authUrl = 'http://localhost:8080/api/';
+  authUrl = 'https://angular-on-heroku1.herokuapp.com/';
   helper = new JwtHelperService();
   decodedToken: any;
   currentUser: Person;
