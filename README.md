@@ -7,6 +7,10 @@ npm install express path --save
 npm install ngx-alerts --save
 npm install jquery
 npm install bootstrap
+npm i @auth0/angular-jwt
+npm i sweetalert2
+npm i popper.js@1.14.3
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
