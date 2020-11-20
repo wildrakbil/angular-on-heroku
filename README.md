@@ -4,6 +4,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 npm install @angular/cli@latest @angular/compiler-cli --save-dev
 npm install express path --save
 
+npm install ngx-alerts --save
+npm install jquery
+npm install bootstrap
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
