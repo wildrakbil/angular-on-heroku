@@ -1,4 +1,4 @@
-import { IdentificationTypeCode } from './identificationTypeCode';
+import { IdentificationTypeCode } from './IdentificationTypeCode';
 
 export class Person {
   id: Number;
